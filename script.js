@@ -1,4 +1,4 @@
- $(document).ready(function() {
+$(document).ready(function() {
   const apiRoot = 'https://maciej-olszewski-kodilla-ownproject.arktosarktos.repl.co/v1/tasks';
   const trelloApiRoot ='https://api.trello.com/1';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
